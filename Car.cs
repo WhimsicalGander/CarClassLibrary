@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarClassLibrary
 {
+    //Model class
     public class Car
     {
         //Car properties
