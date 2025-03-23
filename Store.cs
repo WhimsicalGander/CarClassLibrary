@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarClassLibrary
 {
+    //Business class holding all logic and methods of program
     public class Store
     {
         //Properties for lists of cars
