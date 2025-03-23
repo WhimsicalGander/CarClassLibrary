@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarClassLibrary
 {
+    //Class to handle input and output methods
     public class FileIO
     {
         Store store;
